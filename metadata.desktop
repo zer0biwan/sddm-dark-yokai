@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=dark-yokai
+Description=Premium for SDDM
+Author=zer0biwan
+Copyright=Copyright (C) 2023 zer0biwan
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.5
+Website=https://github.com/zer0biwan
+Screenshot=Previews/PartialBlur.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=zer0biwan@gmail.com
+Theme-Id=dark-yokai
+Theme-API=2.11
